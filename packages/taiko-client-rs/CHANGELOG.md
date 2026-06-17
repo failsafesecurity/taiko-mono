@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.1](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-rs-v2.1.0...taiko-alethia-client-rs-v2.1.1) (2026-06-17)
+
+
+### Bug Fixes
+
+* **taiko-client-rs:** keep release lockfile current ([#21780](https://github.com/taikoxyz/taiko-mono/issues/21780)) ([c4786c2](https://github.com/taikoxyz/taiko-mono/commit/c4786c2bcd898c4674d8e1a8a4bfb26b95cdeb3e))
+* **taiko-client-rs:** report execution head in /status when unsafe counter lags it ([#21777](https://github.com/taikoxyz/taiko-mono/issues/21777)) ([e263a73](https://github.com/taikoxyz/taiko-mono/commit/e263a73597a9073fc3135c4d34e79c3a6bd12224))
+
+
+### Chores
+
+* **taiko-client-rs:** bump execution client dependencies ([#21801](https://github.com/taikoxyz/taiko-mono/issues/21801)) ([48caa9e](https://github.com/taikoxyz/taiko-mono/commit/48caa9e385f52659deee6a85faeb1b04f81df48a))
+
 ## [2.1.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-rs-v2.0.0...taiko-alethia-client-rs-v2.1.0) (2026-06-12)
 
 
