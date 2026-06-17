@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.5.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-v2.4.0...taiko-alethia-client-v2.5.0) (2026-06-17)
+
+
+### Features
+
+* **taiko-client:** expose zk proof distance flag ([#21782](https://github.com/taikoxyz/taiko-mono/issues/21782)) ([a9adcce](https://github.com/taikoxyz/taiko-mono/commit/a9adcced7e9737876dda19cc2393295f49b4f101))
+* **taiko-client:** latched ZK→SGX drain/resume for proof submitter ([#21795](https://github.com/taikoxyz/taiko-mono/issues/21795)) ([6d16262](https://github.com/taikoxyz/taiko-mono/commit/6d1626282c1394ba00be64b79e54a08fe3f68c72))
+
+
+### Bug Fixes
+
+* **taiko-client:** report actual fork label in preconf block log ([#21798](https://github.com/taikoxyz/taiko-mono/issues/21798)) ([8db1860](https://github.com/taikoxyz/taiko-mono/commit/8db186096f7f1700064c96dfb6ea6467fa1582bd))
+
 ## [2.4.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-alethia-client-v2.3.0...taiko-alethia-client-v2.4.0) (2026-06-12)
 
 
